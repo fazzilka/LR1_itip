@@ -3,9 +3,9 @@ public class Palindrome {
         for (int i = 0; i < args.length; i++) {
             String s = args[i];
             if (isPalindrome(s)) {
-                System.out.println(s + " - палиндром");
+                System.out.println(s + " - Палиндром");
             } else {
-                System.out.println(s + " - не палиндром");
+                System.out.println(s + " - Не палиндром");
             }
         }
     }
