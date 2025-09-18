@@ -17,7 +17,7 @@ public class Palindrome_complite {
             if (isPalindrome(word)) {
                 System.out.println(word + " -> это палиндром!");
             } else {
-                System.out.println(word + " -> не палиндром.");
+                System.out.println(word + " -> это не палиндром.");
             }
 
             System.out.print("\nВведите новое слово для проверки (или 'exit' чтобы выйти): ");
